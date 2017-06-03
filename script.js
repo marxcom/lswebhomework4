@@ -2,7 +2,7 @@ document.body.style.backgroundColor = "red";
 document.getElementById("aboutMe").style.backgroundColor = "blue";
 document.body.style.fontFamily = "sans-serif";
 document.getElementById("nickname").innerHTML = "Fido";
-document.getElementById("favorites").innerHTML = "Milk";
+document.getElementById("favorites").innerHTML = "Bones";
 document.getElementById("hometown").innerHTML = "London";
 
 var x = document.getElementsByClassName("listitem");
